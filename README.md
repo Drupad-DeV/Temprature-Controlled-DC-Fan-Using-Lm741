@@ -29,6 +29,7 @@ The Circuit Design is simple, Negative temperature coefficient (NTC) Thermistor 
 depends on the conductivity of the Thermistor.
 
 **_Circuit Working Video_** 
-![ezgif com-video-to-gif](https://github.com/Drupad-DeV/Temprature-Controlled-DC-Fan-Using-Lm741/assets/100958162/bd3c4c55-b5b0-4eec-9af5-e79e2fb6b9f0)
+![ezgif com-video-to-gif](https://github.com/Drupad-DeV/Temprature-Controlled-DC-Fan-Using-Lm741/assets/100958162/ea7ffedc-8e36-4878-8b2d-49c501eaadc1)
+
 
 
